@@ -1,3 +1,4 @@
 # Tienda
-It is a fictitious online store made in html and css
+
+Es una tienda online ficticia hecha en html y css
 URL: https://tienda-mf4p.onrender.com
